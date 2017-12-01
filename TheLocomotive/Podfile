@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+target "TheLocomotive" do
+ 
+pod 'AFNetworking', '~> 3.1.0'
+pod 'YYModel', '~> 1.0.4'
+pod 'SDAutoLayout', '~> 2.1.7'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+pod 'YYCache'
+pod 'YYWebImage'
+pod 'YYImage'
+
+end
